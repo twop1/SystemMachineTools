@@ -1,0 +1,17 @@
+C:\Users\stud305\source\repos\System Machine Tools 2017\System Machine Tools 2017\bin\Debug\System Machine Tools 2017.exe.config
+C:\Users\stud305\source\repos\System Machine Tools 2017\System Machine Tools 2017\bin\Debug\System Machine Tools 2017.exe
+C:\Users\stud305\source\repos\System Machine Tools 2017\System Machine Tools 2017\bin\Debug\System Machine Tools 2017.pdb
+C:\Users\stud305\source\repos\System Machine Tools 2017\System Machine Tools 2017\obj\Debug\System Machine Tools 2017.csprojAssemblyReference.cache
+C:\Users\stud305\source\repos\System Machine Tools 2017\System Machine Tools 2017\obj\Debug\System_Machine_Tools_2017.Form1.resources
+C:\Users\stud305\source\repos\System Machine Tools 2017\System Machine Tools 2017\obj\Debug\System_Machine_Tools_2017.Form2.resources
+C:\Users\stud305\source\repos\System Machine Tools 2017\System Machine Tools 2017\obj\Debug\System_Machine_Tools_2017.Form3.resources
+C:\Users\stud305\source\repos\System Machine Tools 2017\System Machine Tools 2017\obj\Debug\System_Machine_Tools_2017.Form4.resources
+C:\Users\stud305\source\repos\System Machine Tools 2017\System Machine Tools 2017\obj\Debug\System_Machine_Tools_2017.Form5.resources
+C:\Users\stud305\source\repos\System Machine Tools 2017\System Machine Tools 2017\obj\Debug\System_Machine_Tools_2017.Form6.resources
+C:\Users\stud305\source\repos\System Machine Tools 2017\System Machine Tools 2017\obj\Debug\System_Machine_Tools_2017.Form7.resources
+C:\Users\stud305\source\repos\System Machine Tools 2017\System Machine Tools 2017\obj\Debug\System_Machine_Tools_2017.Form8.resources
+C:\Users\stud305\source\repos\System Machine Tools 2017\System Machine Tools 2017\obj\Debug\System_Machine_Tools_2017.Form9.resources
+C:\Users\stud305\source\repos\System Machine Tools 2017\System Machine Tools 2017\obj\Debug\System_Machine_Tools_2017.Properties.Resources.resources
+C:\Users\stud305\source\repos\System Machine Tools 2017\System Machine Tools 2017\obj\Debug\System Machine Tools 2017.csproj.GenerateResource.cache
+C:\Users\stud305\source\repos\System Machine Tools 2017\System Machine Tools 2017\obj\Debug\System Machine Tools 2017.exe
+C:\Users\stud305\source\repos\System Machine Tools 2017\System Machine Tools 2017\obj\Debug\System Machine Tools 2017.pdb
